@@ -7,3 +7,7 @@
 ## What Data Is
 
 Data is a collection of discrete values that convey information, such as facts, figures, or statistics, often used for reasoning, discussion, or calculation.
+
+## Data in the World (Current Events):
+1. https://aibusiness.com/responsible-ai/can-ai-ever-truly-demonstrate-emotional-intelligence-
+2. 
