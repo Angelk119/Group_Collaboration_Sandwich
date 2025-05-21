@@ -10,5 +10,5 @@ Data is a collection of discrete values that convey information, such as facts, 
 
 ## Data in the World (Current Events):
 1. https://aibusiness.com/responsible-ai/can-ai-ever-truly-demonstrate-emotional-intelligence-
-2.https://www.business.com/articles/the-state-of-data-analytics/
+2. https://www.business.com/articles/the-state-of-data-analytics/
  
